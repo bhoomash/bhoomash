@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhoomash</h1>
-<h3 align="center">Full-Stack Developer | MERN | React Native | AI Integrations | India 🇮🇳</h3>
+<h3 align="center">Full-Stack Developer | Problem Solving</h3>
 
 ---
 
