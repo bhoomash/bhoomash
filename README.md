@@ -13,57 +13,9 @@
 
 ---
 
-## 🛠️ Tech Stack  
-### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,bootstrap,tailwind,redux" />
-</p>
 
-### **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,java" />
-</p>
 
-### **Database**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
 
-### **Mobile Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Expo_Logo.png"/>
-</p>
-
-### **Tools & Platforms**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
-
----
-
-## 📌 Featured Projects  
-### 🔹 **Public Way Service Portal (Latest Project)**  
-**Tech:** React, Node.js, MongoDB, Express, JWT  
-- Government service reporting portal  
-- Real-time issue tracking  
-- Multi-role login system (Admin/User)  
-- Clean UI + Secure backend  
-
-### 🔹 **Go Green Farming App**  
-**Tech:** React Native, Python, OpenWeather API  
-- Weather-based farming advice  
-- Seasonal crop tips  
-- AI Q&A chatbot for farmers  
-
-### 🔹 **FestivalKart (E-commerce)**  
-**Tech:** Next.js, MongoDB, Tailwind CSS, Redis, Razorpay  
-- OTP login  
-- Product catalog  
-- Orders, wishlist, cart  
-- Admin dashboard  
-
----
 
 ## 📊 GitHub Stats  
 <p align="center">
