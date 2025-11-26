@@ -11,13 +11,6 @@
 - 📫 How to reach me: **bhoomash@gmail.com**  
 - ⚡ Fun fact: **I love building smart, fast, and secure applications!**
 
----
 
-## 🌐 Connect With Me  
-<p>
-  <a href="mailto:bhoomash@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
-  <a href="https://github.com/bhoomash"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-  <a href="https://www.linkedin.com/in/bhoomash" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-</p>
 
 
