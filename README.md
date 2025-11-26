@@ -13,25 +13,6 @@
 
 ---
 
-
-
-
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhoomash&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomash&layout=compact&theme=tokyonight" height="160" />
-</p>
-
----
-
-## 🔥 GitHub Streak  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhoomash&theme=tokyonight" height="170" />
-</p>
-
----
-
 ## 🌐 Connect With Me  
 <p>
   <a href="mailto:bhoomash@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
@@ -39,6 +20,4 @@
   <a href="https://www.linkedin.com/in/bhoomash" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
 </p>
 
----
 
-⭐ **If you like my profile, consider giving a star to my repositories!**
