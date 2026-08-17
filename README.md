@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <h1>Hi 👋, I'm <span style="color:#4CAF50;">Bhoomash A K</span></h1>
+  <h1>Hi, I'm <span style="color:#4CAF50;">Bhoomash A K</span></h1>
   <h3>Full-Stack MERN Developer | AI Integrations | Problem Solver</h3>
   
   <!-- Dynamic Typing Effect -->
@@ -11,17 +11,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🚀 Currently building **scalable full-stack applications** utilizing Next.js and the MERN stack.
-- 🧠 Exploring **Agentic AI frameworks (CrewAI), RAG applications, and automation workflows**.
-- 🔒 Passionate about **Web Security, zero-knowledge architectures, and JWT Authentication**.
-- ⚙️ Continuously sharpening my problem-solving skills with **350+ DSA problems solved** in Java and C++.
-- 📫 Reach me at: **[bhoomash0000@gmail.com](mailto:bhoomash0000@gmail.com)**
+- Currently building **scalable full-stack applications** utilizing Next.js and the MERN stack.
+- Exploring **Agentic AI frameworks (CrewAI), RAG applications, and automation workflows**.
+- Passionate about **Web Security, zero-knowledge architectures, and JWT Authentication**.
+- Continuously sharpening my problem-solving skills with **350+ DSA problems solved** in Java and C++.
+- Reach me at: **[bhoomash0000@gmail.com](mailto:bhoomash0000@gmail.com)**
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 ### Languages & Core
 <p>
@@ -53,10 +53,9 @@
 
 
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bhoomash&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Bhoomash's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomash&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 <br/>
