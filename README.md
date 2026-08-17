@@ -55,7 +55,8 @@
 
 ## GitHub Analytics
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhoomash&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Bhoomash's GitHub Stats" width="48%" />
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomash&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
-<br/>
