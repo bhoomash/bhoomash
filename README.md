@@ -1,48 +1,72 @@
-<h1 align="center">Hi, I'm <span style="color:#4CAF50;">Bhoomash</span></h1>
-<h3 align="center">Full-Stack MERN Developer | AI Enthusiast | Problem Solver</h3>
+<!-- Header Section -->
+<div align="center">
+  <h1>Hi 👋, I'm <span style="color:#4CAF50;">Bhoomash A K</span></h1>
+  <h3>Full-Stack MERN Developer | AI Integrations | Problem Solver</h3>
+  
+  <!-- Dynamic Typing Effect -->
+  <a href="https://github.com/bhoomash">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;MERN+%2B+Next.js+Specialist;AI+%26+Automation+Enthusiast;Building+Scalable+Architectures" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-- Currently building **full-stack applications** with scalable architectures
-- Exploring **AI integrations, RAG applications, authentication systems, and cloud deployment**
-- Continuously improving my skills in **Data Structures & Algorithms, System Design, and Backend Engineering**
-- Passionate about developing **React, Node.js, Express.js, MongoDB, Java, and Python** applications
-- Interested in **Web Security, REST APIs, JWT Authentication, Redis, and Performance Optimization**
-- Solved **350+ DSA problems** and actively sharpening problem-solving skills
-- Ask me about **React, MERN Stack, JavaScript, Node.js, Express.js, MongoDB, Java, Python, and DSA**
-- Reach me at **bhoomash0000@gmail.com**
+- 🚀 Currently building **scalable full-stack applications** utilizing Next.js and the MERN stack.
+- 🧠 Exploring **Agentic AI frameworks (CrewAI), RAG applications, and automation workflows**.
+- 🔒 Passionate about **Web Security, zero-knowledge architectures, and JWT Authentication**.
+- ⚙️ Continuously sharpening my problem-solving skills with **350+ DSA problems solved** in Java and C++.
+- 📫 Reach me at: **[bhoomash0000@gmail.com](mailto:bhoomash0000@gmail.com)**
 
 ---
 
-## Tech Stack
+## 🛠️ Technical Arsenal
 
 ### Languages & Core
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+</p>
 
-### Frontend & Backend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+### Frontend & Backend Architecture
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+</p>
 
-### Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Databases, Cloud & Tools
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
 ---
 
-## GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhoomash&show_icons=true&theme=radical" alt="Bhoomash's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomash&theme=radical" alt="GitHub Streak" />
-</p>
+* **Optima:** Smart University Resource Scheduling System built with backtracking algorithms to solve complex constraint satisfaction problems.
+* **FlashVault & LockBin:** Privacy-focused, browser-based encryption platforms utilizing AES-256-GCM and one-time access links.
+* **Public Way Service Portal:** AI-powered digital complaint management system architected with FastAPI and RAG.
+* **College Attendance Portal:** Mobile-first dashboard engineered with Next.js 14 and TypeScript, featuring Excel-style filtering.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhoomash&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Bhoomash's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomash&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomash&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>
