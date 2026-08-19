@@ -1,23 +1,22 @@
-<!-- Header Section -->
-<div align="center">
-  <h1>Hi, I'm <span style="color:#4CAF50;">Bhoomash A K</span></h1>
-  <h3>Full-Stack MERN Developer | AI Integrations | Problem Solver</h3>
-  
-  <!-- Dynamic Typing Effect -->
+# Hi, I'm <span style="color:#4CAF50;">Bhoomash A K</span>
+
+### Full-Stack MERN Developer | AI Integrations | Problem Solver
+
+<p align="center">
   <a href="https://github.com/bhoomash">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;MERN+%2B+Next.js+Specialist;AI+%26+Automation+Enthusiast;Building+Scalable+Architectures" alt="Typing SVG" />
   </a>
-</div>
+</p>
 
 ---
 
 ## About Me
 
-- Currently building **scalable full-stack applications** utilizing Next.js and the MERN stack.
-- Exploring **Agentic AI frameworks (CrewAI), RAG applications, and automation workflows**.
-- Passionate about **Web Security, zero-knowledge architectures, and JWT Authentication**.
-- Continuously sharpening my problem-solving skills with **350+ DSA problems solved** in Java and C++.
-- Reach me at: **[bhoomash0000@gmail.com](mailto:bhoomash0000@gmail.com)**
+* Currently building **scalable full-stack applications** utilizing Next.js and the MERN stack.
+* Exploring **Agentic AI frameworks (CrewAI), RAG applications, and automation workflows**.
+* Passionate about **Web Security, zero-knowledge architectures, and JWT Authentication**.
+* Continuously sharpening my problem-solving skills with **350+ DSA problems solved** in Java and C++.
+* Reach me at: **[bhoomash0000@gmail.com](mailto:bhoomash0000@gmail.com)**
 
 ---
 
@@ -51,12 +50,8 @@
 
 ---
 
-
-
 ## GitHub Analytics
 
-
 <div align="center">
- 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomash&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
